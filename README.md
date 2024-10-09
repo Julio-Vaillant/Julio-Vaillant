@@ -3,7 +3,7 @@
 Olá! Eu sou Júlio Vaillant, editor de vídeo apaixonado por contar histórias através da imagem. Com mais de cinco anos de experiência na área, já trabalhei em diversos projetos, desde curtas-metragens até vídeos publicitários e conteúdo para redes sociais.
 
 Meu objetivo é transformar ideias em experiências visuais impactantes, utilizando ferramentas e técnicas que trazem à vida cada detalhe. Adoro colaborar com criadores e ajudar a dar forma à visão deles, sempre buscando inovação e qualidade no que faço. Vamos juntos criar algo incrível! 👋
-## Tecnologias que uso no meu dia
+## HARD SKILLS
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,7 +18,7 @@ Meu objetivo é transformar ideias em experiências visuais impactantes, utiliza
 
 
 
-## Redes sociais
+## SOFT SKILLS
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julio_vaillant/?next=%2F)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?pli=1#inbox?compose=DmwnWrRmTpKClDRDDwSlTfjjCvfMfSsmKVcsqMXphXzxBKRTXcSsmQsgTKBfBtmCPCdrPSHMwgHL)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Julio-Vaillant)
