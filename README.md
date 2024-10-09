@@ -2,7 +2,7 @@
 ### 
 Olá! Eu sou Júlio Vaillant, editor de vídeo apaixonado por contar histórias através da imagem. Com mais de cinco anos de experiência na área, já trabalhei em diversos projetos, desde curtas-metragens até vídeos publicitários e conteúdo para redes sociais.
 
-Meu objetivo é transformar ideias em experiências visuais impactantes, utilizando ferramentas e técnicas que trazem à vida cada detalhe. Adoro colaborar com criadores e ajudar a dar forma à visão deles, sempre buscando inovação e qualidade no que faço. Vamos juntos criar algo incrível!
+Meu objetivo é transformar ideias em experiências visuais impactantes, utilizando ferramentas e técnicas que trazem à vida cada detalhe. Adoro colaborar com criadores e ajudar a dar forma à visão deles, sempre buscando inovação e qualidade no que faço. Vamos juntos criar algo incrível! 👋
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
