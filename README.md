@@ -3,7 +3,7 @@
 Olá! Eu sou Júlio Vaillant, editor de vídeo apaixonado por contar histórias através da imagem. Com mais de cinco anos de experiência na área, já trabalhei em diversos projetos, desde curtas-metragens até vídeos publicitários e conteúdo para redes sociais.
 
 Meu objetivo é transformar ideias em experiências visuais impactantes, utilizando ferramentas e técnicas que trazem à vida cada detalhe. Adoro colaborar com criadores e ajudar a dar forma à visão deles, sempre buscando inovação e qualidade no que faço. Vamos juntos criar algo incrível! 👋
-## HARD SKILLS
+## LINGUAGEM DE PROGRAMAÇÃO
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -13,7 +13,18 @@ Meu objetivo é transformar ideias em experiências visuais impactantes, utiliza
     <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-## SOFT SKILLS
+## SISTEMAS OPERACIONAIS
+![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+## SISTEMAS OPERACIONAIS
+![MYSQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLITE](	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## REDES SOCIAIS
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julio_vaillant/?next=%2F)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?pli=1#inbox?compose=DmwnWrRmTpKClDRDDwSlTfjjCvfMfSsmKVcsqMXphXzxBKRTXcSsmQsgTKBfBtmCPCdrPSHMwgHL)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Julio-Vaillant)
