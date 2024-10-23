@@ -1,8 +1,8 @@
 
 ### 
-Olá! Eu sou Júlio Vaillant, editor de vídeo apaixonado por contar histórias através da imagem. Com mais de cinco anos de experiência na área, já trabalhei em diversos projetos, desde curtas-metragens até vídeos publicitários e conteúdo para redes sociais.
+Hello! I'm Júlio Vaillant, a video editor passionate about telling stories through images. With more than five years of experience in the area, I have worked on several projects, from short films to advertising videos and content for social networks.
 
-Meu objetivo é transformar ideias em experiências visuais impactantes, utilizando ferramentas e técnicas que trazem à vida cada detalhe. Adoro colaborar com criadores e ajudar a dar forma à visão deles, sempre buscando inovação e qualidade no que faço. Vamos juntos criar algo incrível! 👋
+My goal is to transform ideas into impactful visual experiences, using tools and techniques that bring every detail to life. I love collaborating with creators and helping to shape their vision, always seeking innovation and quality in what I do. Let's create something incredible together! 👋
 ## LINGUAGEM DE PROGRAMAÇÃO
 
 <div style="display: inline_block"><br/>
