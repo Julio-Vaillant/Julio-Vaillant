@@ -30,6 +30,10 @@ My goal is to transform ideas into impactful visual experiences, using tools and
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Julio-Vaillant)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whi)](https://discord.com/channels/@me)
 
+## IDIOMAS FALADOS
+Português 
+Espanhol
+Inglés 
 
 ##
 ![Julio-Vaillant GitHub stats](https://github-readme-stats.vercel.app/api?username=Julio-Vaillant&show_icons=true&theme=dracula)
